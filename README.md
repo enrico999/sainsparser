@@ -1,6 +1,11 @@
 # SainsParser
 
-A simple HTML parser for the Sainsbury's product page.
+A simple HTML parser for the Sainsbury's product page.  
+Dependencies used:
+* `pimple/pimple`  
+* `monolog/monolog`  
+* `paquettg/php-html-parser`  
+* `phpunit/phpunit`  
 
 ## Download code and packages
 
