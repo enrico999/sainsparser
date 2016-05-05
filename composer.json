@@ -1,0 +1,13 @@
+{
+    "require": {
+        "pimple/pimple": "~3.0",
+        "monolog/monolog": "^1.19",
+        "paquettg/php-html-parser": "^1.7",
+        "phpunit/phpunit": "^4.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Enrico\\": "app/src"
+        }
+    }
+}
